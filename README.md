@@ -1,30 +1,35 @@
 ```markdown
 <h1 align="center">Hi 👋, I'm Newton Babu Nandru</h1>
 
-<h3 align="center">Senior Linux & Production Support Engineer | AWS Cloud & DevOps Enthusiast</h3>
+<h3 align="center">
+Senior Linux & Production Support Engineer | AWS Cloud & DevOps Enthusiast
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Senior+Linux+Administrator;AWS+Cloud+Engineer;DevOps+Enthusiast;Shell+Scripting+Automation;Production+Support+Engineer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Senior+Linux+Administrator;AWS+Cloud+Engineer;DevOps+Engineer;Automation+Enthusiast;Production+Support+Specialist;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=newton9979&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=newton9979&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://img.shields.io/github/followers/newton9979?label=Followers&style=social"/>
+<img src="https://img.shields.io/github/stars/newton9979?affiliations=OWNER&style=social"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-👋 Hi, I'm **Newton Babu Nandru**, a Senior Technical Support Engineer with **9+ years of experience** in Linux Administration, Production Support, Shell Scripting, and Automation.
+Hi, I'm **Newton Babu Nandru**, a **Senior Technical Support Engineer** with **9+ years of experience** in Linux Administration, Production Support, Incident Management, Shell Scripting, Automation, and Enterprise Infrastructure Support.
 
-I enjoy solving production issues, automating repetitive tasks, and building reliable Linux infrastructure. Currently, I'm enhancing my skills in **AWS Cloud, Docker, Kubernetes, Terraform, Jenkins, and CI/CD** to transition into a Cloud & DevOps Engineer role.
+I'm passionate about building reliable infrastructure, automating repetitive tasks, solving complex production issues, and transitioning into a **Cloud & DevOps Engineer** role.
 
 - 💼 9+ Years of IT Experience
-- 🐧 Linux Administrator
-- ☁️ AWS Cloud Learner (SAA-C03)
+- 🐧 Linux Administration
+- ☁️ AWS Cloud
 - ⚙️ Shell Scripting & Automation
 - 🚀 DevOps Enthusiast
-- 🌱 Always Learning New Technologies
+- 🔧 CI/CD & Infrastructure Automation
+- 🌱 Continuous Learner
 
 ---
 
@@ -32,37 +37,67 @@ I enjoy solving production issues, automating repetitive tasks, and building rel
 
 ### ☁️ Cloud
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=aws"/>
 </p>
 
-### 🛠 DevOps
+### ⚙️ DevOps
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,terraform,bash"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,terraform,jenkins,bash,githubactions"/>
 </p>
 
-### 💻 Operating Systems
+### 🐧 Operating Systems
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,windows"/>
-</p>
-
-### 💾 Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows"/>
 </p>
 
 ### 💻 Programming
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,vscode"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,bash,vscode"/>
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
 </p>
 
 ---
 
-# 🎯 Current Focus
+# 💼 Professional Skills
+
+- Linux Administration
+- Production Support
+- Shell Scripting
+- AWS Cloud
+- Docker
+- Kubernetes
+- Terraform
+- Jenkins
+- GitHub Actions
+- CI/CD Pipelines
+- Incident Management
+- Change Management
+- SSL Certificate Management
+- Disaster Recovery
+- Apache Airflow
+- Apache NiFi
+- Hadoop (HDFS)
+- IBM Tivoli Workload Scheduler
+- Oracle
+- MySQL
+- MariaDB
+- SQL
+- Server Monitoring
+- Production Deployment
+- Automation
+
+---
+
+# 🎯 Current Learning
 
 - AWS Solutions Architect Associate (SAA-C03)
 - Docker
@@ -70,72 +105,35 @@ I enjoy solving production issues, automating repetitive tasks, and building rel
 - Terraform
 - Jenkins
 - GitHub Actions
-- CI/CD Pipelines
-- Linux Automation
-
----
-
-# 💼 Professional Skills
-
-✔ Linux Administration
-
-✔ Production Support
-
-✔ Shell Scripting
-
-✔ AWS Cloud
-
-✔ SQL | MySQL | MSSQL | Oracle | MariaDB
-
-✔ Apache Airflow
-
-✔ Apache NiFi
-
-✔ Hadoop (HDFS)
-
-✔ IBM Tivoli Workload Scheduler
-
-✔ SSL Certificate Management
-
-✔ Disaster Recovery
-
-✔ Production Deployment
-
-✔ Server Monitoring
-
-✔ Incident Management
+- CI/CD
+- Python Automation
 
 ---
 
 # 📂 Featured Projects
 
-🚀 Linux Administration Labs
-
-🚀 AWS IAM Hands-on
-
-🚀 AWS EC2 Practical
-
-🚀 Shell Scripting Automation
-
-🚀 Docker Labs
-
-🚀 Kubernetes Basics
-
-🚀 Git & GitHub
-
-🚀 DevOps Learning Projects
+- 🐧 Linux Administration Labs
+- ☁️ AWS Hands-on Labs
+- 🖥️ EC2 Deployment Projects
+- 🐳 Docker Labs
+- ☸ Kubernetes Labs
+- 🌍 Terraform Infrastructure
+- 🔄 CI/CD Pipelines
+- 📜 Shell Scripting Automation
+- 🔐 IAM Best Practices
+- ⚙️ GitHub Actions Workflows
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/newton-babu-nandru/" target="_blank">
+<a href="https://www.linkedin.com/in/newton-babu-nandru">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/newton9979" target="_blank">
+<a href="https://github.com/newton9979">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
@@ -147,13 +145,13 @@ I enjoy solving production issues, automating repetitive tasks, and building rel
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=newton9979&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=newton9979&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newton9979&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newton9979&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -162,9 +160,7 @@ I enjoy solving production issues, automating repetitive tasks, and building rel
 # 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=newton9979&theme=tokyonight"/>
-
 </p>
 
 ---
@@ -172,9 +168,7 @@ I enjoy solving production issues, automating repetitive tasks, and building rel
 # 📈 GitHub Activity Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=newton9979&theme=tokyo-night"/>
-
 </p>
 
 ---
@@ -182,14 +176,26 @@ I enjoy solving production issues, automating repetitive tasks, and building rel
 # 🏆 GitHub Trophies
 
 <p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=newton9979&theme=algolia&margin-w=10&margin-h=10"/>
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=newton9979&theme=algolia&margin-w=15&margin-h=15"/>
+---
+
+# 📊 GitHub Summary Cards
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newton9979&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=newton9979&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=newton9979&theme=github_dark"/>
 
 </p>
 
 ---
 
-# 🐍 Snake Contribution
+# 🐍 Contribution Snake
 
 <p align="center">
 
@@ -199,33 +205,33 @@ I enjoy solving production issues, automating repetitive tasks, and building rel
 
 ---
 
-# 📈 GitHub Summary Cards
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newton9979&theme=github_dark"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-- ☁️ AWS Solutions Architect Associate
-- 🐳 Docker
-- ☸ Kubernetes
-- 🌍 Terraform
-- 🔧 Jenkins
-- 🚀 GitHub Actions
-- ⚙ CI/CD Pipelines
-- 🐍 Python Automation
-
----
-
 # 📜 Certifications
 
-- 🎓 AWS Cloud Practitioner *(Learning)*
+- 🎓 AWS Cloud Practitioner *(Planned)*
 - 🎓 AWS Solutions Architect Associate *(In Progress)*
+- 🎓 Docker & Kubernetes *(Learning)*
+- 🎓 Terraform *(Learning)*
+
+---
+
+# 💡 Goals for 2025
+
+- ✅ Become AWS Certified
+- ✅ Master Kubernetes
+- ✅ Build Production CI/CD Pipelines
+- ✅ Learn Infrastructure as Code
+- ✅ Contribute to Open Source
+- ✅ Publish More DevOps Projects
+
+---
+
+# 📈 GitHub Metrics
+
+- 🔥 Daily Coding
+- 🚀 DevOps Projects
+- ☁️ Cloud Learning
+- 🐧 Linux Automation
+- 📚 Continuous Learning
 
 ---
 
@@ -235,5 +241,13 @@ I enjoy solving production issues, automating repetitive tasks, and building rel
 
 ---
 
-⭐ **Thanks for visiting my profile! If you like my repositories, don't forget to star them.**
+<h3 align="center">
+
+⭐ Thanks for visiting my GitHub Profile! ⭐
+
+If you like my repositories, don't forget to ⭐ them.
+
+Happy Learning 🚀
+
+</h3>
 ```

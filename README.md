@@ -1,36 +1,34 @@
+```markdown
 <h1 align="center">Hi 👋, I'm Newton Babu Nandru</h1>
 
-<h3 align="center">Linux | AWS Cloud | DevOps | Automation Engineer</h3>
-
-<!-- Animated Typing -->
+<h3 align="center">Senior Linux & Production Support Engineer | AWS Cloud & DevOps Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Linux+Administrator;AWS+Cloud+Engineer;DevOps+Engineer;Shell+Scripting+Expert;Production+Support+Engineer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Senior+Linux+Administrator;AWS+Cloud+Engineer;DevOps+Enthusiast;Shell+Scripting+Automation;Production+Support+Engineer;Always+Learning+New+Technologies" />
 </p>
 
-<!-- Visitor Counter -->
-
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=newton9979&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 💼 9+ Years of IT Experience in Production Support
-- ☁️ Currently learning AWS Solutions Architect Associate (SAA-C03)
+👋 Hi, I'm **Newton Babu Nandru**, a Senior Technical Support Engineer with **9+ years of experience** in Linux Administration, Production Support, Shell Scripting, and Automation.
+
+I enjoy solving production issues, automating repetitive tasks, and building reliable Linux infrastructure. Currently, I'm enhancing my skills in **AWS Cloud, Docker, Kubernetes, Terraform, Jenkins, and CI/CD** to transition into a Cloud & DevOps Engineer role.
+
+- 💼 9+ Years of IT Experience
 - 🐧 Linux Administrator
+- ☁️ AWS Cloud Learner (SAA-C03)
 - ⚙️ Shell Scripting & Automation
-- ☁️ AWS IAM | EC2 | S3 | VPC
-- 📊 SQL | MySQL | Oracle | MSSQL | MariaDB
-- 🔄 Apache Airflow | Apache NiFi | HDFS
-- 📦 Docker & Kubernetes (Learning)
-- 🎯 Goal: AWS Cloud & DevOps Engineer
+- 🚀 DevOps Enthusiast
+- 🌱 Always Learning New Technologies
 
 ---
 
-# 🚀 Professional Skills
+# 🚀 Tech Stack
 
 ### ☁️ Cloud
 
@@ -38,15 +36,11 @@
 <img src="https://skillicons.dev/icons?i=aws"/>
 </p>
 
----
-
-### 🛠 DevOps & Automation
+### 🛠 DevOps
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,terraform,bash"/>
 </p>
-
----
 
 ### 💻 Operating Systems
 
@@ -54,17 +48,13 @@
 <img src="https://skillicons.dev/icons?i=linux,windows"/>
 </p>
 
----
-
 ### 💾 Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
 </p>
 
----
-
-### Programming & Editors
+### 💻 Programming
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,vscode"/>
@@ -72,37 +62,68 @@
 
 ---
 
-# ☁ AWS Learning Progress
+# 🎯 Current Focus
 
-- ✅ IAM
-- 🔄 EC2
-- 🔄 S3
-- 🔄 VPC
-- 🔄 EBS
-- 🔄 Route53
-- 🔄 ELB
-- 🔄 Auto Scaling
-- 🔄 CloudWatch
-- 🔄 RDS
-- 🎯 Preparing for AWS SAA-C03
+- AWS Solutions Architect Associate (SAA-C03)
+- Docker
+- Kubernetes
+- Terraform
+- Jenkins
+- GitHub Actions
+- CI/CD Pipelines
+- Linux Automation
+
+---
+
+# 💼 Professional Skills
+
+✔ Linux Administration
+
+✔ Production Support
+
+✔ Shell Scripting
+
+✔ AWS Cloud
+
+✔ SQL | MySQL | MSSQL | Oracle | MariaDB
+
+✔ Apache Airflow
+
+✔ Apache NiFi
+
+✔ Hadoop (HDFS)
+
+✔ IBM Tivoli Workload Scheduler
+
+✔ SSL Certificate Management
+
+✔ Disaster Recovery
+
+✔ Production Deployment
+
+✔ Server Monitoring
+
+✔ Incident Management
 
 ---
 
 # 📂 Featured Projects
 
-🚀 AWS IAM Hands-on Labs
+🚀 Linux Administration Labs
+
+🚀 AWS IAM Hands-on
 
 🚀 AWS EC2 Practical
 
-🚀 Linux Administration
-
 🚀 Shell Scripting Automation
-
-🚀 Git & GitHub Learning
 
 🚀 Docker Labs
 
 🚀 Kubernetes Basics
+
+🚀 Git & GitHub
+
+🚀 DevOps Learning Projects
 
 ---
 
@@ -111,11 +132,11 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/newton-babu-nandru/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" />
+<a href="https://github.com/newton9979" target="_blank">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="mailto:newtonnandru@gmail.com">
@@ -130,9 +151,9 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=newton9979&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newton9979&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -142,7 +163,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=newton9979&theme=tokyonight"/>
 
 </p>
 
@@ -152,7 +173,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=newton9979&theme=tokyo-night"/>
 
 </p>
 
@@ -162,19 +183,27 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=newton9979&theme=algolia&margin-w=15&margin-h=15"/>
 
 </p>
 
 ---
 
-# 🐍 Snake Contribution Animation
-
-> Create the GitHub Action below to generate the snake animation automatically.
+# 🐍 Snake Contribution
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/newton9979/newton9979/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 📈 GitHub Summary Cards
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newton9979&theme=github_dark"/>
 
 </p>
 
@@ -182,46 +211,29 @@
 
 # 📚 Currently Learning
 
-- AWS Solutions Architect Associate (SAA-C03)
-- Terraform
-- Jenkins
-- Kubernetes
-- CI/CD
-- Docker
-- Linux Automation
+- ☁️ AWS Solutions Architect Associate
+- 🐳 Docker
+- ☸ Kubernetes
+- 🌍 Terraform
+- 🔧 Jenkins
+- 🚀 GitHub Actions
+- ⚙ CI/CD Pipelines
+- 🐍 Python Automation
 
 ---
 
-# 💼 Experience
+# 📜 Certifications
 
-✔ Linux Administration
-
-✔ Production Support
-
-✔ Shell Scripting
-
-✔ SQL
-
-✔ AWS
-
-✔ Apache Airflow
-
-✔ Apache NiFi
-
-✔ Hadoop (HDFS)
-
-✔ IBM Tivoli Workload Scheduler
-
-✔ SSL Certificate Management
-
-✔ Disaster Recovery
-
-✔ Production Migration
+- 🎓 AWS Cloud Practitioner *(Learning)*
+- 🎓 AWS Solutions Architect Associate *(In Progress)*
 
 ---
 
-# 💬 Quote
+# 💬 Favorite Quote
 
 > **"Automate everything that can be automated."**
 
-⭐ If you like my repositories, don't forget to star them!
+---
+
+⭐ **Thanks for visiting my profile! If you like my repositories, don't forget to star them.**
+```

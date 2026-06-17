@@ -31,7 +31,7 @@ Currently deepening my skills in **AWS, Docker, Kubernetes, and Terraform** to m
 
 ```text
 🐧  Linux Administration & Production Support     ████████████████████  9+ yrs
-☁️  AWS Cloud (EC2, S3, IAM, VPC, RDS)           ████████████░░░░░░░░  Learning
+☁️  AWS Cloud (EC2, S3, IAM, VPC, RDS)           ████████████░░░░░░░░  5+ yrs
 ⚙️  Shell Scripting & Automation                  █████████████████░░░  Advanced
 🐳  Docker & Kubernetes                           ████████░░░░░░░░░░░░  Building
 🌍  Terraform (IaC)                               ███████░░░░░░░░░░░░░  Building

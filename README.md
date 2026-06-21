@@ -10,45 +10,113 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=newton9979&label=Profile+Views&color=0D1117&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=newton9979&label=Profile+Views&color=0D1117&style=for-the-badge" alt="Profile Views"/>
+  &nbsp;
   <a href="https://www.linkedin.com/in/newton-n-7a062759" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Newton%20N-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Newton%20N-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="mailto:newtonnandru@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-newtonnandru%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
-<br/>
+---
 
 ## About Me
 
-I'm a **Senior Linux & Production Support Engineer** with **9+ years of experience** managing enterprise Linux environments, production support operations, incident management, and infrastructure reliability.
+I'm a **Senior Technical Support Engineer** based in India with **9+ years** of hands-on experience keeping enterprise Linux environments running — and running well. My work sits at the intersection of production reliability, incident resolution, and automation-first thinking.
 
-Currently expanding my expertise in **AWS, Docker, Kubernetes, Terraform, CI/CD, and Infrastructure Automation** to transition into a Cloud & DevOps Engineering role.
+Currently deepening my skills in **AWS, Docker, Kubernetes, and Terraform** to make a full transition into Cloud & DevOps engineering.
 
-<br/>
+```text
+🐧  Linux Administration & Production Support     ████████████████████  9+ yrs
+☁️  AWS Cloud (EC2, S3, IAM, VPC, RDS)            ████████████░░░░░░░░  5+ yrs
+⚙️  Shell Scripting & Automation                  █████████████████░░░  Advanced
+🐳  Docker & Kubernetes                           ████████░░░░░░░░░░░░  Building
+🌍  Terraform (IaC)                               ███████░░░░░░░░░░░░░  Building
+🔄  CI/CD (Jenkins, GitHub Actions)               ████████░░░░░░░░░░░░  Building
+```
 
-## 🛠️ Skills & Experience
+---
 
-| Skill | Proficiency |
+## Core Skills
+
+**Infrastructure & OS**
+`Linux (RHEL/CentOS/Ubuntu)` `Windows Server` `Shell Scripting` `Bash` `Cron Jobs`
+
+**Cloud & DevOps**
+`AWS` `Docker` `Kubernetes` `Terraform` `Jenkins` `GitHub Actions` `Git`
+
+**Data & Middleware**
+`Apache Airflow` `Apache NiFi` `Hadoop (HDFS)` `IBM TWS` `Oracle` `MySQL` `MariaDB` `MongoDB` `PostgreSQL`
+
+**Operations**
+`Incident Management` `Change Management` `SSL Certificate Management` `Disaster Recovery` `Server Monitoring` `Production Deployment`
+
+---
+
+## What I'm Working On
+
+| Area | Status |
 |---|---|
-| 🐧 Linux Administration & Production Support | ████████████████████ 9+ Years |
-| ☁️ AWS Cloud (EC2, S3, IAM, VPC, RDS) | ████████████░░░░░░░░ 5+ Years |
-| ⚙️ Shell Scripting & Automation | █████████████████░░░ Advanced |
-| 🐳 Docker & Kubernetes | ████████░░░░░░░░░░░░ Learning |
-| 🌍 Terraform (Infrastructure as Code) | ███████░░░░░░░░░░░░░ Learning |
-| 🔄 CI/CD (Jenkins & GitHub Actions) | ████████░░░░░░░░░░░░ Learning |
+| AWS Solutions Architect Associate (SAA-C03) | 🔄 In Progress |
+| Docker & Kubernetes hands-on labs | 🔄 In Progress |
+| Terraform infrastructure projects | 🔄 In Progress |
+| CI/CD pipeline builds with Jenkins & GitHub Actions | 🔄 In Progress |
+| Python scripting for automation | 🔄 In Progress |
 
-<br/>
+---
 
-## 📫 Connect With Me
+## Projects
+
+> *Projects are actively being built and published. Watch this space.*
+
+| Project | Description | Stack |
+|---|---|---|
+| 🐧 Linux Admin Labs | Practical Linux administration scenarios | Bash, Linux |
+| ☁️ AWS Hands-on Labs | EC2, IAM, VPC, S3 deployment exercises | AWS |
+| 🐳 Docker Labs | Containerization patterns and Dockerfiles | Docker |
+| ☸️ Kubernetes Labs | Cluster setup, deployments, services | K8s |
+| 🌍 Terraform IaC | Reusable infrastructure modules | Terraform |
+| 🔄 CI/CD Pipelines | End-to-end pipeline automation | Jenkins, GitHub Actions |
+| 📜 Shell Scripts | Automation scripts for common sysadmin tasks | Bash, Python |
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/newton-n-7a062759" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:newtonnandru@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=newton9979&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF" alt="GitHub Stats"/>
+  &nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newton9979&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4FF" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=newton9979&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=newton9979&theme=github-compact&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&hide_border=true" alt="Activity Graph"/>
+</p>
+
+---
+
+## Certifications
+
+| Certification | Status |
+|---|---|
+| AWS Cloud Practitioner | 📅 Planned |
+| AWS Solutions Architect Associate | 🔄 In Progress |
+| Docker Certified Associate | 📅 Planned |
+| Certified Kubernetes Administrator (CKA) | 📅 Planned |
+
+---
+
+<p align="center">
+  <em>"Automate everything that can be automated."</em>
+</p>
+
+<p align="center">
+  If my work is useful, a ⭐ on the repo goes a long way. Thanks for stopping by.
 </p>

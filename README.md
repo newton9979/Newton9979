@@ -6,18 +6,25 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=9%2B+Years+in+Linux+Administration;Production+Support+%26+Incident+Management;Transitioning+into+AWS+%26+DevOps;Automating+Everything+That+Can+Be+Automated" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=9%2B+Years+in+Linux+Administration;Production+Support+%26+Incident+Management;Transitioning+into+AWS+%26+DevOps;Automating+Everything+That+Can+Be+Automated" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=newton9979&label=Profile+Views&color=0D1117&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=newton9979&label=Profile+Views&color=0D1117&style=flat-square"/>
   &nbsp;
-  <a href="https://www.linkedin.com/in/newton-n-7a062759" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Newton%20N-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/newton-n-7a062759" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Newton%20N-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+  <!--
+  <a href="https://www.linkedin.com/in/newton-babu-nandru">
+    <img src="https://img.shields.io/badge/LinkedIn-newton--babu--nandru-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    www.linkedin.com/in/newton-n-7a062759
+-->
+
   </a>
   &nbsp;
   <a href="mailto:newtonnandru@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-newtonnandru%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -31,7 +38,7 @@ Currently deepening my skills in **AWS, Docker, Kubernetes, and Terraform** to m
 
 ```text
 🐧  Linux Administration & Production Support     ████████████████████  9+ yrs
-☁️  AWS Cloud (EC2, S3, IAM, VPC, RDS)            ████████████░░░░░░░░  5+ yrs
+☁️  AWS Cloud (EC2, S3, IAM, VPC, RDS)           ████████████░░░░░░░░  5+ yrs
 ⚙️  Shell Scripting & Automation                  █████████████████░░░  Advanced
 🐳  Docker & Kubernetes                           ████████░░░░░░░░░░░░  Building
 🌍  Terraform (IaC)                               ███████░░░░░░░░░░░░░  Building
@@ -87,17 +94,17 @@ Currently deepening my skills in **AWS, Docker, Kubernetes, and Terraform** to m
 ## GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=newton9979&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF" alt="GitHub Stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=newton9979&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF"/>
   &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newton9979&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4FF" alt="Top Languages"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newton9979&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4FF"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=newton9979&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=newton9979&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=newton9979&theme=github-compact&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=newton9979&theme=github-compact&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&hide_border=true"/>
 </p>
 
 ---
@@ -110,6 +117,14 @@ Currently deepening my skills in **AWS, Docker, Kubernetes, and Terraform** to m
 | AWS Solutions Architect Associate | 🔄 In Progress |
 | Docker Certified Associate | 📅 Planned |
 | Certified Kubernetes Administrator (CKA) | 📅 Planned |
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/newton9979/newton9979/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ---
 

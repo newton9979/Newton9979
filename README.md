@@ -12,14 +12,16 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=newton9979&label=Profile+Views&color=0D1117&style=flat-square"/>
   &nbsp;
-<a href="https://www.linkedin.com/in/newton-n-7a062759" target="_blank">
+<!--
+  <a href="https://www.linkedin.com/in/newton-n-7a062759" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Newton%20N-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-  <!--
-  <a href="https://www.linkedin.com/in/newton-babu-nandru">
+  -->
+  
+  <a href="https://www.linkedin.com/in/newton-n-7a062759">
     <img src="https://img.shields.io/badge/LinkedIn-newton--babu--nandru-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
     www.linkedin.com/in/newton-n-7a062759
--->
+
 
   </a>
   &nbsp;

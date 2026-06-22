@@ -20,9 +20,6 @@
   
   <a href="https://www.linkedin.com/in/newton-n-7a062759">
     <img src="https://img.shields.io/badge/LinkedIn-newton--babu--nandru-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-    www.linkedin.com/in/newton-n-7a062759
-
-
   </a>
   &nbsp;
   <a href="mailto:newtonnandru@gmail.com">

@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=9%2B+Years+in+IT%3A+Support+%2B+DevOps%2FSRE;4%2B+Years+in+DevOps+%26+SRE+Engineering;4%2B+Years+in+Production+%26+Application+Support;Automating+Everything+That+Can+Be+Automated" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=DevOps+%26+SRE+Engineering;Production+%26+Application+Support;Infrastructure+Automation;Automating+Everything+That+Can+Be+Automated" />
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 ## About Me
 
-I'm a **Senior DevOps / SRE Engineer** based in India with **9+ years of overall IT experience**, spanning **4+ years in Production/Application Support** and **4+ years in DevOps & SRE engineering**. My work sits at the intersection of production reliability, incident resolution, cloud infrastructure, and automation-first thinking.
+I'm a **DevOps / SRE Engineer** based in India working across cloud infrastructure, production support, and automation. My work sits at the intersection of production reliability, incident resolution, cloud infrastructure, and automation-first thinking.
 
 ```text
 🐧  Linux Administration & Production Support     ████████████████████  9+ yrs
@@ -38,44 +38,46 @@ I'm a **Senior DevOps / SRE Engineer** based in India with **9+ years of overall
 
 ---
 
-## 💼 Professional Experience
+## ⚙️ DevOps Engineering — What I Do
 
-| Company | Period | Duration | Role |
-|---|---|---|---|
-| Nalito Systems Ltd | Nov 2015 – Nov 2016 | 1 Year | CBS Support Engineer |
-| Bartronics India Ltd | Nov 2016 – Sep 2019 | 2 Years 10 Months | Application / Production Support Engineer |
-| Integra Micro Systems (Support) | Sep 2019 – Mar 2020 | 7 Months | Production Support Engineer |
-| Integra Micro Systems (DevOps) | Apr 2020 – Jul 2021 | 1 Year 4 Months | DevOps Engineer / DevOps Support Engineer |
-| Olive Crypto Systems Pvt Ltd | Aug 2021 – Mar 2022 | 8 Months | DevOps Engineer |
-| Capgemini Technology Services India Ltd | Jun 2023 – Apr 2026 | 2 Years 10 Months | DevOps / SRE Engineer |
+- Design and maintain **CI/CD pipelines** (Jenkins, GitHub Actions) covering build, test, and multi-environment deployment stages
+- Provision and manage **cloud infrastructure on AWS** — EC2, VPC, S3, IAM, RDS, security groups, load balancers
+- Write and maintain **Infrastructure as Code** using Terraform for repeatable, version-controlled environments
+- Containerize applications with **Docker** and manage deployments/orchestration with **Kubernetes**
+- Build and tune **monitoring & alerting** stacks to catch issues before they hit production
+- Manage **release and change processes**, coordinating deployments across dev, staging, and production
+- Implement **configuration management** and environment standardization across servers and clusters
+- Collaborate with development teams to embed reliability, security, and automation into the software delivery lifecycle
+- Own **SRE responsibilities** — on-call rotations, incident response, root cause analysis, and post-incident reviews
 
 ---
 
-## 📊 Experience Summary
+## 🛠️ Production & Application Support — What I Do
 
-### DevOps Experience
+- Provide **L2/L3 production support** for critical enterprise applications and services, ensuring high availability
+- Perform **incident management** — triage, troubleshoot, escalate, and resolve issues under SLA/OLA pressure
+- Administer and harden **Linux servers** (RHEL/CentOS/Ubuntu) — patching, performance tuning, log analysis
+- Manage **database operations** across Oracle, MySQL, MariaDB, MongoDB, and PostgreSQL — backups, restores, health checks
+- Handle **job scheduling and batch processing** using tools like IBM TWS
+- Support **data pipeline platforms** such as Apache Airflow, Apache NiFi, and Hadoop/HDFS
+- Manage **SSL certificate lifecycle** — renewals, installations, and troubleshooting expiry-related outages
+- Execute **disaster recovery drills** and maintain DR documentation/runbooks
+- Conduct **root cause analysis (RCA)** for recurring incidents and drive permanent fixes
+- Coordinate **change management** for production releases, minimizing risk and downtime
 
-| Company | Duration |
-|---|---|
-| Integra Micro Systems | 1 Year 4 Months |
-| Olive Crypto Systems Pvt Ltd | 8 Months |
-| Capgemini Technology Services India Ltd | 2 Years 10 Months |
-| **Total DevOps Experience** | **4 Years 10 Months** |
+---
 
-### Production / Application Support Experience
+## 🤖 Automation — What I Do
 
-| Company | Duration |
-|---|---|
-| Nalito Systems Ltd | 1 Year |
-| Bartronics India Ltd | 2 Years 10 Months |
-| Integra Micro Systems | 7 Months |
-| **Total Support Experience** | **4 Years 5 Months** |
-
-### Overall IT Experience
-
-- **Production / Application Support:** 4 Years 5 Months
-- **DevOps / SRE:** 4 Years 10 Months
-- **Total Overall IT Experience:** **9 Years 3 Months** *(excluding the gap between Mar 2022 and Jun 2023)*
+- Write **Shell/Bash scripts** to automate routine sysadmin tasks — backups, log rotation, health checks, cleanup jobs
+- Automate **deployment workflows** end-to-end, reducing manual intervention and human error
+- Build **self-healing scripts** and monitoring hooks that auto-remediate common failure scenarios
+- Automate **certificate renewal and expiry alerts** to prevent SSL-related outages
+- Script **infrastructure provisioning** with Terraform to eliminate manual, click-ops server setup
+- Automate **CI/CD triggers and pipeline stages** for faster, more consistent releases
+- Develop **Python automation utilities** for reporting, monitoring, and operational tooling
+- Automate **user/access management** tasks (IAM policies, server access provisioning/de-provisioning)
+- Create **cron-based automation** for recurring maintenance and housekeeping tasks across environments
 
 ---
 

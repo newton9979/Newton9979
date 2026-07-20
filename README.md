@@ -1,23 +1,17 @@
 <h1 align="center">Newton Babu Nandru</h1>
 
 <p align="center">
-  <strong>Senior Linux & Production Support Engineer</strong><br/>
-  AWS Cloud · DevOps · Infrastructure Automation
+  <strong>Senior DevOps / SRE Engineer</strong><br/>
+  AWS Cloud · DevOps · Production Support · Infrastructure Automation
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=9%2B+Years+in+Linux+Administration;Production+Support+%26+Incident+Management;Transitioning+into+AWS+%26+DevOps;Automating+Everything+That+Can+Be+Automated" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=9%2B+Years+in+IT%3A+Support+%2B+DevOps%2FSRE;4%2B+Years+in+DevOps+%26+SRE+Engineering;4%2B+Years+in+Production+%26+Application+Support;Automating+Everything+That+Can+Be+Automated" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=newton9979&label=Profile+Views&color=0D1117&style=flat-square"/>
   &nbsp;
-<!--
-  <a href="https://www.linkedin.com/in/newton-n-7a062759" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Newton%20N-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-  -->
-  
   <a href="https://www.linkedin.com/in/newton-n-7a062759">
     <img src="https://img.shields.io/badge/LinkedIn-newton--babu--nandru-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
@@ -31,18 +25,57 @@
 
 ## About Me
 
-I'm a **Senior Technical Support Engineer** based in India with **9+ years** of hands-on experience keeping enterprise Linux environments running — and running well. My work sits at the intersection of production reliability, incident resolution, and automation-first thinking.
-
-Currently deepening my skills in **AWS, Docker, Kubernetes, and Terraform** to make a full transition into Cloud & DevOps engineering.
+I'm a **Senior DevOps / SRE Engineer** based in India with **9+ years of overall IT experience**, spanning **4+ years in Production/Application Support** and **4+ years in DevOps & SRE engineering**. My work sits at the intersection of production reliability, incident resolution, cloud infrastructure, and automation-first thinking.
 
 ```text
 🐧  Linux Administration & Production Support     ████████████████████  9+ yrs
+⚙️  DevOps / SRE Engineering                      ████████████████░░░░  4+ yrs
 ☁️  AWS Cloud (EC2, S3, IAM, VPC, RDS)           ████████████░░░░░░░░  5+ yrs
-⚙️  Shell Scripting & Automation                  █████████████████░░░  Advanced
-🐳  Docker & Kubernetes                           ████████░░░░░░░░░░░░  Building
-🌍  Terraform (IaC)                               ███████░░░░░░░░░░░░░  Building
-🔄  CI/CD (Jenkins, GitHub Actions)               ████████░░░░░░░░░░░░  Building
+🐳  Docker & Kubernetes                           ████████████░░░░░░░░  Advancing
+🌍  Terraform (IaC)                               ██████████░░░░░░░░░░  Advancing
+🔄  CI/CD (Jenkins, GitHub Actions)               ████████████░░░░░░░░  Advancing
 ```
+
+---
+
+## 💼 Professional Experience
+
+| Company | Period | Duration | Role |
+|---|---|---|---|
+| Nalito Systems Ltd | Nov 2015 – Nov 2016 | 1 Year | CBS Support Engineer |
+| Bartronics India Ltd | Nov 2016 – Sep 2019 | 2 Years 10 Months | Application / Production Support Engineer |
+| Integra Micro Systems (Support) | Sep 2019 – Mar 2020 | 7 Months | Production Support Engineer |
+| Integra Micro Systems (DevOps) | Apr 2020 – Jul 2021 | 1 Year 4 Months | DevOps Engineer / DevOps Support Engineer |
+| Olive Crypto Systems Pvt Ltd | Aug 2021 – Mar 2022 | 8 Months | DevOps Engineer |
+| Capgemini Technology Services India Ltd | Jun 2023 – Apr 2026 | 2 Years 10 Months | DevOps / SRE Engineer |
+
+---
+
+## 📊 Experience Summary
+
+### DevOps Experience
+
+| Company | Duration |
+|---|---|
+| Integra Micro Systems | 1 Year 4 Months |
+| Olive Crypto Systems Pvt Ltd | 8 Months |
+| Capgemini Technology Services India Ltd | 2 Years 10 Months |
+| **Total DevOps Experience** | **4 Years 10 Months** |
+
+### Production / Application Support Experience
+
+| Company | Duration |
+|---|---|
+| Nalito Systems Ltd | 1 Year |
+| Bartronics India Ltd | 2 Years 10 Months |
+| Integra Micro Systems | 7 Months |
+| **Total Support Experience** | **4 Years 5 Months** |
+
+### Overall IT Experience
+
+- **Production / Application Support:** 4 Years 5 Months
+- **DevOps / SRE:** 4 Years 10 Months
+- **Total Overall IT Experience:** **9 Years 3 Months** *(excluding the gap between Mar 2022 and Jun 2023)*
 
 ---
 

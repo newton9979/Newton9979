@@ -1,7 +1,7 @@
 <h1 align="center">Newton Babu Nandru</h1>
 
 <p align="center">
-  <strong>Senior DevOps / SRE Engineer</strong><br/>
+  <strong> DevOps / SRE Engineer</strong><br/>
   AWS Cloud · DevOps · Production Support · Infrastructure Automation
 </p>
 

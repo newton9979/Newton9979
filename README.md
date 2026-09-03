@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=DevOps+%2F+SRE+Engineer;8%2B+Years+in+IT+%7C+3%2B+in+DevOps%2FSRE;Banking%2C+Risk+%26+UPI+Platform+Support;Automating+Everything+That+Can+Be+Automated" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=DevOps+%2F+SRE+Engineer;8%2B+Years+in+IT+%7C+4%2B+in+DevOps%2FSRE;Banking%2C+Risk+%26+UPI+Platform+Support;Automating+Everything+That+Can+Be+Automated" />
 </p>
 
 <p align="center">
